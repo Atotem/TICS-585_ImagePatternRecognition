@@ -13,11 +13,12 @@ branch 'tarea_01' (available)
 
 Objetivo: Esta tarea tiene como objetivo extraer descriptores contenidos en una imagen compuesta por seis letras. En la fase de extracción de información, usted debe utilizar las siguientes características por cada letra contenida en la imagen adjunta:
 
-  (1) cinco primeros momentos de Hu,
-  (2) complejidad de forma,
-  (3) perímetro,
-  (4) redondez, y
-  (5) ángulo de orientación de la elipse.
+  1. cinco primeros momentos de Hu,
+  2. complejidad de forma,
+  3. perímetro,
+  4. redondez, y
+  5. ángulo de orientación de la elipse.
+  
 
 ### Tarea 02
 branch 'tarea_02' (not available)
